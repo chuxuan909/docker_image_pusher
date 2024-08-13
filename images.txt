@@ -1,1 +1,4 @@
-nginx:stable-otel
+wazuh/wazuh-certs-generator:0.0.2
+wazuh/wazuh-manager:4.8.1
+wazuh/wazuh-indexer:4.8.1
+wazuh/wazuh-dashboard:4.8.1
