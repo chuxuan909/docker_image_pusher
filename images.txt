@@ -1,1 +1,1 @@
-grafana/grafana:8.1.0
+nginx:stable-otel
