@@ -1,1 +1,1 @@
-ubuntu:22.04
+xiaomimi8/docker-awvs-14.7.220401065
