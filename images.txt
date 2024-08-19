@@ -1,1 +1,3 @@
-xiaomimi8/docker-awvs-14.7.220401065
+redis
+crediteaseitsec/insight2
+crediteaseitsec/insight2_front
