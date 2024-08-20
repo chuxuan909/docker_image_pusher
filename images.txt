@@ -1,3 +1,10 @@
-redis
-crediteaseitsec/insight2
-crediteaseitsec/insight2_front
+redis:7.2.5
+docker.elastic.co/elasticsearch/elasticsearch:8.15.0
+minio/minio:RELEASE.2024-05-28T17-19-04Z
+rabbitmq:3.13-management
+opencti/platform:6.2.14
+opencti/worker:6.2.14
+opencti/connector-export-file-csv:6.2.14
+opencti/connector-export-file-txt:6.2.14
+opencti/connector-import-file-stix:6.2.14
+opencti/connector-import-document:6.2.14
