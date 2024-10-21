@@ -1,1 +1,1 @@
-oyvindsk/wagtail-demo
+oyvindsk/wagtail-demo:latest
