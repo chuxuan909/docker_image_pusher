@@ -1,1 +1,1 @@
-sqlsec/ggctf-upload:v1
+oyvindsk/wagtail-demo
