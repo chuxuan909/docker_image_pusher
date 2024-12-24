@@ -1,1 +1,1 @@
-oyvindsk/wagtail-demo:latest
+mysql:8.0
