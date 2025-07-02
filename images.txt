@@ -1,2 +1,1 @@
-ghcr.io/digininja/dvwa:latest
-docker.io/library/mariadb:10
+snowdreamtech/frps
